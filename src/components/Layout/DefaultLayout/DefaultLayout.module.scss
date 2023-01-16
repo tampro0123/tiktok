@@ -7,11 +7,9 @@
 .container {
   width: var(--default-layout-width);
   display: flex;
-
 }
 
 .content {
-  flex:1;
-  background-color: #ccc;
+  flex: 1;
   min-height: 1000px;
 }
