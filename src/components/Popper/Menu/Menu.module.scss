@@ -25,10 +25,14 @@
   padding-bottom: 8px !important;
 }
 
+.menu-body {
+  overflow-y: auto;
+}
 .header {
   position: relative;
   height: 50px;
   margin-top: -8px;
+  flex-shrink: 0;
 }
 
 .back-btn {

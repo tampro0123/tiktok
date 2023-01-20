@@ -55,9 +55,7 @@ function Search() {
     }
   }
 
-  const handleSubmit = (e) => {
-    e.preventDefault()
-  }
+
 
   return (
     <HeadlessTippy
